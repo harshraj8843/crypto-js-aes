@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/github/license/novicexp/crypto-js-aes)](https://github.com/novicexp/crypto-js-aes/blob/master/LICENSE.md) [![Github Repo Size](https://img.shields.io/github/repo-size/novicexp/crypto-js-aes)](https://github.com/novicexp/crypto-js-aes)
+[![License](https://img.shields.io/github/license/harshraj8843/crypto-js-aes)](https://github.com/harshraj8843/crypto-js-aes/blob/master/LICENSE.md) [![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/crypto-js-aes)](https://github.com/harshraj8843/crypto-js-aes)
 
 </div>
 
@@ -28,7 +28,7 @@ Crypto-js AES encryption decryption web app
 
 - clone project
   ```
-  git clone https://github.com/novicexp/crypto-js-aes
+  git clone https://github.com/harshraj8843/crypto-js-aes
   ```
   ```
   cd crypto-js-aes/
